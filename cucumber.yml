@@ -1,0 +1,2 @@
+default: --format  pretty --format json -o relatorio.json --format html -o relatorio.html
+
